@@ -1,0 +1,123 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+/*---------cbanner----------*/
+div.cbanner{
+  
+   	
+}
+/*---------/cbanner----------*/
+/*---------cfeatures----------*/
+div.cfeatures{
+   height: 179px;
+   width: 1024px;	
+   margin:0 auto;
+   padding-top: 6px;
+   background-color: #ebebeb;
+   	
+}
+div.ctitle{
+    float: left;
+    width: 31px;	
+}
+div.cspotlight,div.cnews,div.cproducts{
+	 width: 322px;
+    float: left;    	 
+}
+
+div.cspotlight b,div.cnews b,div.cproducts b{
+  font:bold  13px/20px  Arial;   	 
+}
+div.cproducts  img.cpic{
+    float: right;
+    margin-top: -15px;
+}
+div.cnews img{
+   float: right;
+   height:150px;
+   margin-right: 5px;
+}
+div.cnews  b{
+	  width: 218px;
+	  line-height:12px;
+}
+div.cspotlight{
+margin-left: 26px;
+}
+div.cfeaturecontent{
+	 float:right;
+	 width: 280px;
+}
+
+div.cspotlightright,cspotlightleft{
+	float: left;
+}
+div.cspotlightright{
+	margin-bottom: 15px;
+}
+div.cfeaturecontent  b{
+	 color: #306985;
+	 font:bold  13px/20px  Arial;
+	 float: left;
+}
+div.cfeaturecontent  p{
+	font: 12px/20px  Arial;
+	float: left;
+	color: #6b6781;
+	margin-bottom: 0px; 
+	margin-top: 0px;
+	line-height: 14px;
+	width: 217px;
+	padding-bottom: 5px;
+}
+div.cproducts  p{
+	 width: 230px;
+	 margin-bottom: 10px;
+	 float: left;
+}
+div.cfeaturecontent  b.cb_b{
+	width: 110px;
+	text-align: left; 
+}
+div.cfeaturecontent  b.cb_a{
+  
+	width: 184px; 
+}
+div.cfeaturecontent  img.cimg_a{
+	 width: 90px;
+	 height: 57px;
+	 float: right;
+}
+div.cfeaturecontent  img.cimg_b{
+	float: left;
+	width: 90px;
+	height: 57px;
+}
+div.cfeaturecontent  p.ca_a{
+
+	width: 172px;
+	margin-top: 0px; margin-bottom: 0px;
+}
+div.cfeaturecontent  p.ca_b{
+	float: right;
+	width: 180px;
+	margin-top: 0px; margin-bottom: 0px;
+}
+div.cfeaturecontent  a{
+   text-decoration: none;
+   color: #6b6781;
+   font:12px/14px  Arial; 
+   float: left;
+   width: 218px; 	
+}
+div.contentgroup_a{
+	float: left;
+	width: 170px;
+}
+div.cfeaturecontent  b{
+	  width: 218px;
+	  font:bold  13px/20px  Arial;
+}
+div.contentgroup_b{
+	float: right;
+	width: 180px;
+}
+/*---------/cfeatures----------*/

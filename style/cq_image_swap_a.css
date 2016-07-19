@@ -1,0 +1,70 @@
+/* CSS for image_swap_a */
+div.qcenter{
+ display: block;
+ width: 1023px;
+ height: 347px;
+ overflow: hidden;
+ margin: 0px auto;
+ float: none;
+ clear: both;
+ border: none;
+ padding: 0px;
+ position: relative;
+}
+div.qnav{
+ display: block;
+ position: absolute;
+ top: 12px;
+ left: 752px;
+ z-index:100;
+ width: 52px;
+ padding: 0px;
+ margin: 0px;
+}
+div.qnav a{
+ display: block;
+ width: 251px;
+ height: 65px;
+ background-color: #333;
+ margin-bottom: 10px;
+ border: 1px solid #ccc;
+ opacity:0.8;
+ filter:alpha(opacity=80);
+ overflow: hidden;
+}
+div.qnav a b{
+ text-decoration: underline;
+ color: #fff;
+ display: block;
+ font: normal 12px/16px arial;
+ text-align: right;
+ margin-top: 25px;
+ width: 110px;
+}
+div.qnav a img{
+ margin: 8px;
+ height: 47px;
+ float: right;
+ border: 1px solid #FFFFFF;
+ left: -7px;
+ position: relative;
+ width: 120px;
+ top: -57px;
+ margin-left: 0px; margin-right: 0px;
+}
+div.qnav a.qapgr{
+ border: 1px solid #cc0000;
+}
+div.qimageswap{
+ display: block;
+ top: 0px;
+ left: 0px;
+ width: 1023px;
+ height: 347px;
+ padding: 0px;
+ margin: 0px auto;
+ clear: both;
+ float: none;
+ z-index: 0;
+ overflow: hidden;
+}

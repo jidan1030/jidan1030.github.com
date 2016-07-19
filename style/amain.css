@@ -1,0 +1,150 @@
+/*css--meheco---*/
+/*css--amain*/
+body{
+   margin:0;
+	padding:0;
+}
+div {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+img {border:none;}
+
+div.an, br.an{
+ border: none;
+ clear: both;
+ display: block;
+ font:  normal 1px/1px Arial;
+ height: 1px;
+ margin: 0px;
+ padding:0px;
+ width:1px;
+
+}
+
+div.aout{
+	border: none;
+	width:1280px;
+	margin:0 auto;
+	padding:0px 0px 10px 0px;
+	background: #273943 url(image/bg_main3.png) repeat;
+}
+
+div.abox {
+	border: none;
+	width:900px;
+	margin:0 auto;
+	background:#FFF;
+	padding:0px;
+}
+div.abox div.ahead{
+ margin: 0px auto;
+ clear: both;
+ width: 850px;
+}
+
+div.ahead div.a3dbar{
+ background: #89AA28 url(image/bg_3d_bar1.png) repeat-x left center;
+ text-align: left;
+ height: 65px;
+}
+div.a3dbar img{
+ height: 60px;
+}
+div.a3dbar h2{
+ display: inline-block;
+ margin: 20px 0px 0px 80px;
+ padding: 0px;
+ vertical-align: top;
+ font: bold 14px/45px Times;
+ font-style: italic;
+ color:#8BAB2B;
+ text-transform: uppercase;
+}
+
+div.abox img.ahead{
+ display: block;
+ margin: 0px auto;
+ width: 850px;
+ height: 250px;
+}
+div.abox img.ahbar{
+ display: inline-block;
+ margin: 5px;
+ width: 135px;
+ height: 50px;
+}
+div.atop{
+ margin: 0px auto;
+ width: 850px;
+ float: none;
+ clear: both;
+}
+
+div.afoot{
+ margin: 0px auto;
+ float: none;
+ clear: both;
+}
+
+div.atop div.aleft,
+div.atop div.aright{
+  float: left;
+}
+
+div.afoot{
+ background: #86C409 url(image/bg_foot1.png) repeat-x 0px 0px;
+ margin: 30px auto 0px auto;
+ height: 140px;
+}
+div.afoot div.afootnv{
+ background: #2A2A2A url(image/bg_footnv.png) repeat-y right 0px;
+ margin: 0px auto;
+ width: 800px;
+ border: 2px solid #2A2A2A;
+ height: 60px; 
+}
+div.afoot div.afootnv img{
+ left: -30px;
+ top: -22px;
+ position: relative;
+}
+
+div.afootnv div.afnv{
+ display: block;
+ float: right;
+ width: 680px;
+ padding: 30px 0px 0px 0px;
+}
+
+div.afnv a.anv{
+ display: block;
+ float: left;
+ padding: 0px 8px;
+ border-right: 1px solid #fff;
+ text-decoration: none;
+ color: #fff;
+ font: normal 11px/16px Tahoma,Arial,Helvetica,sans-serif;
+ text-align: center;
+ background: transparent;
+}
+div.afnv a.alast{
+ border: none;
+}
+div.afnv a.anv:hover,
+div.afnv a.active{
+ color: #CEEB40;
+}
+
+div.afoot p{
+ width: 800px;
+ font: normal 11px/30px Tahoma,Arial,Helvetica,sans-serif;
+ color: #2C2C2C;
+ padding: 0px;
+ margin: 0px auto;
+ text-indent: none;
+ text-align: center;
+/* background: transparent url(image/bg_copyright.jpg) no-repeat right top;  */
+ background: transparent;
+}

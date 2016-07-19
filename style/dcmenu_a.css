@@ -1,0 +1,52 @@
+/* CSS Document */
+ul.cmenu{
+   margin: 0px auto;
+   height: 38px;
+}
+
+ul.cmenu li{
+   
+   height: 38px;
+   background-color: #006666;
+}
+ul.cmenu li a{
+   margin: 0px auto;
+   height: 39px;
+   color: #eee;
+}
+ul.cmenu li a.afirst{
+   padding-left: 32px;
+   padding-right: 32px;
+}
+ul.cmenu li a.cmenu{
+   background-color: #006666;
+   color: #eee;
+}
+ul.cmenu li a.csubmenu{
+   background-color: #006666;
+   color: #eee;
+}
+
+
+ul.cmenu li p{
+   width: 210px;
+   margin: 0px;
+   padding: 0px;
+}
+
+p.csubmenu p img{
+  width: 179px;
+  height: 66px;
+  float: left;
+}
+
+div.cbx1{
+  width: 300px;
+  height: 200px;
+  background-color: #CCFF33;
+}
+div.cbx2{
+  width: 350px;
+  height: 200px;
+  background-color: #00CC99;
+}

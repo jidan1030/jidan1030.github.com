@@ -1,0 +1,158 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+/*--caboutus--*/
+div#acontent{
+	width: 960px;
+	margin: 0 auto;
+	background-color: white;
+	margin-top: 10px;
+}
+div#caboutus{
+	 width: 960px;
+	 float: left;
+	 margin:0 auto;
+}
+div#cproduct{
+  background-color: #e8e9e9;
+  float: left;
+  margin: 0 auto;
+  width: 960px;	
+}
+div#cproduct  h1{
+	 font:  35px/35px Arial;
+	 width: 400px;
+	 float: left;
+	 color: #163050;
+	 margin-bottom: 0px;
+}
+div#cproduct  b{
+	 width: 300px;
+	 float: left;
+	 font: 12px/20px  Arial;
+	 color: #444953;
+	 background: url(../images/more_a.gif)  no-repeat left;
+	 padding-left: 10px;
+	 padding-top: 15px;
+	 line-height: 13px;
+}
+div#cproduct img{
+	float: right;
+	 margin-right: 0px;
+	 margin-top: -30px;
+}
+div#cproduct  a{
+	 float: left;
+	 width: 201px;
+	 float: left;
+	 font: 12px/20px  Arial;
+	 text-decoration: none;
+	 background: url(../images/alink.gif)  no-repeat;
+	 height: 23px;
+	 color: white;
+	 padding-left: 10px;
+	 margin-top: 13px;
+}
+div#cproduct  a:hover{
+	text-decoration: underline;
+}
+div#cfont{
+	width: 370px;
+	float: left;
+	padding-left: 30px; width: 370px;
+}
+div#cfeatur{
+	 background: url(../images/feat.jpg)  no-repeat;
+	 width: 960px;
+	 height: 150px;
+	 float: left;
+}
+div.cimm{
+	 width: 280px;
+	 float: left;
+	 padding-left: 30px;
+}
+div.cimm  h3{
+	 width: 265px;
+	 font: 18px/20px  Arial ;
+	 float: left;
+	 color: #444953;
+	 margin-bottom: 0px;
+	 margin-top: 20px;
+}
+div.cimm p{
+  width: 290px;
+  float: left;	
+  color: black;
+  font: 12px/20px  Arial ;
+  margin-bottom: 5px;
+  line-height:12px;
+  height: 48px;
+}
+div.cimm  a{
+	 color: #8a122b;
+	 float: right;
+	  font:bold  12px/20px  Arial ;
+	  text-decoration: none;
+	 
+	  
+}
+div.cimm a img{
+    float: right;
+    margin-left: 5px;
+}
+/*--caboutus--*/
+/*--cdrown--*/
+div#cdrown{
+	 width: 960px;
+	 float: left;
+}
+div#cdaib{
+    width: 445px;
+    float: left;
+    background-color: #f2f2f2;
+    padding-left: 30px;	
+    height: 445px;
+}
+  h2{
+	 width: 445px;
+	 float: left;
+	 font: 23px/23px  Arial ;
+	 float: left;
+	 color: #606880;
+	 margin-bottom: 12px;
+	 margin-top: 20px;
+} 
+div#cdaib  p{
+	 width: 407px;
+	 float: left;	
+    color: #606880;
+    font: 12px/20px  Arial ;
+    margin-top: 5px; margin-bottom: 12px;
+}
+div#cdaib  b{
+	width: 407px;
+	 float: left;	
+    color: black;
+    font: 12px/20px  Arial ;
+    margin-bottom: 5px;
+    line-height: 18px;
+    padding-top: 24px;
+    border-top: solid  #cccccc 1px;
+}
+div#cdaib  a{
+	 float: right;	
+    color: black;
+    font: 12px/20px  Arial ;
+    text-decoration: none;
+    width:120px;
+}
+div#cakt{
+	 background-color: white;
+	 float: left;
+	 width: 460px;
+	 padding-left: 25px;
+	 height: 445px;
+}
+div#cakt  h2{
+	margin-bottom: 17px;
+}
+/*--cdrown--*/
